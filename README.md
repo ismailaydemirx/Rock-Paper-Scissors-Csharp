@@ -30,12 +30,19 @@ Select the difficulty level:
 Enter the difficulty level (1-3): 2
 
 R. Rock
+
 P. Paper
+
 S. Scissors
+
 0. Exit
+
 Make your choice (R/P/S): R
+
 Your Choice: Rock
+
 Computer Choice: Scissors
+
 Result: You Win!
 
 Press Enter to continue...
@@ -52,21 +59,33 @@ Result: You Win!
 Press Enter to continue...
 
 R. Rock
+
 P. Paper
+
 S. Scissors
+
 0. Exit
+
 Make your choice (R/P/S): S
+
 Your Choice: Scissors
+
 Computer Choice: Paper
+
 Result: You Win!
 
 Press Enter to continue...
 
 R. Rock
+
 P. Paper
+
 S. Scissors
+
 0. Exit
+
 Make your choice (R/P/S): 0
+
 Exiting the game...
 
 Final Scores
